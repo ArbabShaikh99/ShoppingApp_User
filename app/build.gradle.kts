@@ -103,6 +103,8 @@ dependencies {
     //loatty animation
     implementation("com.airbnb.android:lottie-compose:6.1.0")
 
+
+
 //
 //    implementation("androidx.compose.foundation:foundation:1.7.8") // Compose foundation elements ke liye
 //    implementation("androidx.compose.ui:ui-graphics:1.7.8") // Brush aur Gradient ke liye
