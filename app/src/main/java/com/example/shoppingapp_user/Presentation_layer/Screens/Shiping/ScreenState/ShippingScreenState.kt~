@@ -1,0 +1,3 @@
+package com.example.shoppingapp_user.Presentation_layer.Screens.Shiping.ScreenState
+
+data class ShippingScreenState()
